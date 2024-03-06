@@ -7,3 +7,5 @@ def suma(a: int, b: int) -> int:
     """
     x = "no se usa"
     return a+ b
+    x = "no se usa esta variable"
+    return a + b
